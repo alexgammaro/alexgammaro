@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# #Who am i?
+
+### I'm Alexandre Gammaro
+
+Informata com mais de 20 anos de experiência; graduado em Análise e Desenvolvimento de Sistemas; Especialista em Segurança em Redes de Computadores; ótimos conhecimentos em Redes, Infraestrutura e Segurança da Informação; noções de Programação, Codificação e Desenvolvimento.
+
+IT professional over 20 years of experience; graduated in System Analisys; Network Security Especialist; great knowledge of Network, Infrastructure and Information Security; notions of Programming, Coding and Development.
+
 <!--
 **alexgammaro/alexgammaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
