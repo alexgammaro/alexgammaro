@@ -1,4 +1,4 @@
-# #Who am i?
+# #Whoami?
 
 ### Hi there 👋
 ### I'm (Eu sou) Alexandre Gammaro
