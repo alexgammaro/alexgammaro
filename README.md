@@ -1,7 +1,6 @@
-<img align="right" src="http://agsolucoes.000webhostapp.com/imgs/who_am_i.png">
 # #whoami
 
-
+<img align="right" src="http://agsolucoes.000webhostapp.com/imgs/who_am_i.png">
 
 ### Hi there 👋
 ### I'm (Eu sou) Alexandre Gammaro
@@ -12,7 +11,7 @@ Informata com mais de 20 anos de experiência; graduado em Análise e Desenvolvi
 
 <a href="http://agsolucoes.info"><img align="left" src="http://agsolucoes.000webhostapp.com/imgs/aglogo.jpg"></a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexgammaro&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexgammaro&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 <!--
 **alexgammaro/alexgammaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
