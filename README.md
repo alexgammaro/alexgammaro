@@ -9,9 +9,9 @@ IT professional over 20 years of experience; graduated in System Analisys; Netwo
 
 Informata com mais de 20 anos de experiência; graduado em Análise e Desenvolvimento de Sistemas; Especialista em Segurança em Redes de Computadores; ótimos conhecimentos em Redes, Infraestrutura e Segurança da Informação; noções de Programação, Codificação e Desenvolvimento.
 
-<a href="http://agsolucoes.info"><img src="http://agsolucoes.000webhostapp.com/imgs/aglogo.jpg"></a>
+<a href="http://agsolucoes.info"><img align="center" src="http://agsolucoes.000webhostapp.com/imgs/aglogo.jpg"></a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=alexgammaro&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 <!--
 **alexgammaro/alexgammaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
