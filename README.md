@@ -1,9 +1,9 @@
 # #whoami
 
+<img src="http://agsolucoes.000webhostapp.com/imgs/who_am_i.png">
+
 ### Hi there 👋
 ### I'm (Eu sou) Alexandre Gammaro
-
-<img src="http://agsolucoes.000webhostapp.com/imgs/who_am_i.png">
 
 Informata com mais de 20 anos de experiência; graduado em Análise e Desenvolvimento de Sistemas; Especialista em Segurança em Redes de Computadores; ótimos conhecimentos em Redes, Infraestrutura e Segurança da Informação; noções de Programação, Codificação e Desenvolvimento.
 
