@@ -3,6 +3,8 @@
 ### Hi there 👋
 ### I'm (Eu sou) Alexandre Gammaro
 
+<img src="http://agsolucoes.000webhostapp.com/imgs/whoami.jpg">
+
 Informata com mais de 20 anos de experiência; graduado em Análise e Desenvolvimento de Sistemas; Especialista em Segurança em Redes de Computadores; ótimos conhecimentos em Redes, Infraestrutura e Segurança da Informação; noções de Programação, Codificação e Desenvolvimento.
 
 IT professional over 20 years of experience; graduated in System Analisys; Network Security Especialist; great knowledge of Network, Infrastructure and Information Security; notions of Programming, Coding and Development.
