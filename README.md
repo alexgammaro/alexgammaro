@@ -11,6 +11,8 @@ Informata com mais de 20 anos de experiência; graduado em Análise e Desenvolvi
 
 <a href="http://agsolucoes.info"><img src="http://agsolucoes.000webhostapp.com/imgs/aglogo.jpg"></a>
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
 <!--
 **alexgammaro/alexgammaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
