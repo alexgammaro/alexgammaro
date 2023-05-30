@@ -1,6 +1,6 @@
 # **#whoami**
 
-<img align="right" src="http://agsolucoes.000webhostapp.com/imgs/who_am_i.png">
+<img align="right" src="http://agsolucoes.info/imgs/who_am_i.png">
 
 ### Hi there 👋
 ### I'm (Eu sou) Alexandre Gammaro
@@ -35,7 +35,7 @@ Informata com mais de 20 anos de experiência; graduado em Análise e Desenvolvi
 
 ## 🏢 **Meu site corporativo**
 
-<a href="http://agsolucoes.info" target="_blank"><img src="http://agsolucoesinfo.000webhostapp.com/imgs/aglogo.jpg"></a>
+<a href="http://agsolucoes.info" target="_blank"><img src="http://agsolucoes.info/imgs/aglogo.jpg"></a>
 
 <!--
 **alexgammaro/alexgammaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
